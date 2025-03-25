@@ -1,5 +1,5 @@
 ---
-description: how to apply reference-class forecasting
+description: Approximating measuring the scopes of large unique projects using historical data.
 tags:
   - projects
   - books
