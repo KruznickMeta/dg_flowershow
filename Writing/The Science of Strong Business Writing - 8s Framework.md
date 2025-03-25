@@ -64,7 +64,7 @@ Tsuyoshi Okuhara, of the University of Tokyo, teamed with colleagues to ask 400 
 
 Remarkably, the simulation may extend to our muscles too. When a team led by an Italian researcher, Marco Tettamanti, asked people to listen to sentences related to the mouth, hand, and leg—“I bite an apple”; “I grasp a knife”; “I kick the ball”—the brain regions for moving their jaws, hands, and legs fired.
 
-⁠⁠Using more-vivid, palpable language will reward your readers. In a recent letter to shareholders, Amazon CEO Jeff Bezos didn’t say, “We’re facing strong competition.” Channeling Tettamanti’s research, he wrote, <mark style="background: #FFB86CA6;">“Third-party sellers are kicking our first-party butt. Badly.”⁠⁠</mark>
+⁠⁠Using more-vivid, palpable language will reward your readers. In a recent letter to shareholders, Amazon CEO Jeff Bezos didn’t say, “We’re facing strong competition.” Channeling Tettamanti’s research, he wrote, “Third-party sellers are kicking our first-party butt. Badly.”⁠⁠
 
 ⁠⁠Another specificity tactic is to give readers a memorable shorthand phrase to help them retain your message. Malcolm Gladwell coined “the tipping point.” Management gurus W. Chan Kim and Renée Mauborgne came up with “blue ocean strategy”; essayist Nassim Nicholas Taleb, “black swan event.”⁠⁠
 
@@ -123,6 +123,4 @@ Experiments by behavioral scientists at the University of Florida produced simil
 When you incorporate stories into your communications, big payoffs can result. Consider research that Melissa Lynne Murphy did at the University of Texas, looking at business crowdfunding campaigns. She found that study participants formed more-favorable impressions of the pitches that had richer narratives, giving them higher marks for entrepreneur credibility and business legitimacy. Study participants also expressed more willingness to invest in the projects and share infor­mation about them. The implication: No stories, no great funding success.
 
 The eight S’s can be your secret weapons in writing well. They’re effective tools for engaging readers because they trigger the same neural responses that other pleasurable stimuli do. And you probably understand their value intuitively because millions of years of evolution have trained our brains to know what feels right. So cultivate those instincts. They’ll lead you to the writer’s version of the Golden Rule: Reward readers as you would yourself.
-
-A version of this article appeared in the [July–August 2021](https://hbr.org/archive-toc/BR2104) issue of *Harvard Business Review*.
 
