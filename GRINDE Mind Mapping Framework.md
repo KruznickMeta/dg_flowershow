@@ -10,7 +10,7 @@ date created: 25, 03, 14, 3:35:16 PM
 date modified: 25, 03, 14, 4:15:34 PM
 title: GRINDE Mind Mapping Framework
 ---
-This video, "The Ultimate Guide to The Perfect Mindmap (6-Step Checklist)" by Justin Sung, outlines a six-step framework called GRIND for creating effective mind maps that lead to deep understanding, strong memory, and the ability to apply knowledge effectively.
+This video, "The Ultimate Guide to The Perfect Mindmap (6-Step Checklist)" by Justin Sung, outlines a six-step framework called GRINDE for creating effective mind maps that lead to deep understanding, strong memory, and the ability to apply knowledge effectively.
 
 [The Ultimate Guide to The Perfect Mindmap (6-Step Checklist) - YouTube](https://www.youtube.com/watch?v=Grd7K7bJVWg)
 ## Summary
