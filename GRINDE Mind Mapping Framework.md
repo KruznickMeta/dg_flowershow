@@ -16,7 +16,7 @@ This video, "The Ultimate Guide to The Perfect Mindmap (6-Step Checklist)" by Ju
 ## Summary
 The video emphasizes that a perfect mind map is less about the map itself and more about the **process used to create it**, which forces the brain to engage in high-efficiency encoding, turning information into memory.
 ## Framework
-Here are the key points of the GRIND framework:
+Here are the key points of the GRINDE framework:
 
 - **G - Grouping:** This involves arranging related ideas together. The crucial aspect is **thinking about _how_ to group information**, as there are multiple ways, and the most obvious way is not always the best for your memory. The process of grouping promotes stronger memory and deeper understanding, and the organized information is easier to retain and access later. This relates to concepts like chunking, scaffolding, and creating mental models or information schemas.
 - **R - Relational:** This step focuses on **thinking about and expressing how ideas are related to each other** on the mind map. There are different levels of relationships, and it's important to find a good balance, avoiding too few or too many relationships. You need to consciously decide which relationships are important to include. The types of relationships emphasized can influence the groups formed.
