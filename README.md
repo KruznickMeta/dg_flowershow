@@ -1,6 +1,6 @@
-# Kruznick's Digital Warehouse
+# Welcome to Kruznick's Digital Curated Warehouse!
 
-Welcome! This is a dumping ground for notes and information that needs to shared at large with certain people. If you stumbled here by accident, you're not where you need to be.
+Here you will find an assortment of things that I've deemed useful. It's mainly desgined to incentivize my writing and sharing of knowledge with people in my minor circles.
 
 
 
