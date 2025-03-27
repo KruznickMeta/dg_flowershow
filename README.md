@@ -1,4 +1,4 @@
-# Digitally curated warehouse!
+# Digital Warehouse!
 
 Here you will find an assortment of things that I've deemed useful to push online for conveinence. 
 
