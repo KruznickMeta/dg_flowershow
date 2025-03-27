@@ -1,11 +1,9 @@
-# Welcome to my digitally curated warehouse!
+# Digitally curated warehouse!
 
-Here you will find an assortment of things that I've deemed useful. It's mainly desgined to incentivize my writing and sharing of knowledge with people in my minor circles.
+Here you will find an assortment of things that I've deemed useful to push online for conveinence. 
 
-Take what you need and feel free to message or contact me directly regarding anything you find here.
-
-
+Take what you need and feel free to message or contact me directly regarding anything you find here. Use the left sidebar for navigation.
 
 ---
+Thanks
 
-Thanks for visiting!
